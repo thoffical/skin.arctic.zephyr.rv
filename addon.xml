@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-    id="skin.arctic.zephyr"
+    id="skin.arctic.zephyr.rv"
     version="2.3.16"
-    name="Arctic: Zephyr"
-    provider-name="jurialmunkey">
+    name="Arctic: Zephyr Revived"
+    provider-name="jurialmunkey, Thirdy">
     <requires>
         <import addon="xbmc.gui" version="5.17.0"/>
         <import addon="script.skinshortcuts" version="2.0.3"/>
