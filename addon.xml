@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
     id="skin.arctic.zephyr"
-    version="2.3.15"
+    version="2.3.16"
     name="Arctic: Zephyr"
     provider-name="jurialmunkey">
     <requires>
-        <import addon="xbmc.gui" version="5.14.0"/>
+        <import addon="xbmc.gui" version="5.17.0"/>
         <import addon="script.skinshortcuts" version="0.4.0"/>
         <import addon="service.library.data.provider" version="0.1.0"/>
         <import addon="script.skin.helper.service" version="0.0.1"/>
         <import addon="script.extendedinfo" version="3.0.0"/>
-        <import addon="script.globalsearch" version="5.0.0"/>
+        <import addon="script.globalsearch" version="9.0.0"/>
         <import addon="script.image.resource.select" version="0.0.5"/>
         <import addon="script.toolbox" version="1.0.0"/>
         <import addon="plugin.program.autocompletion" version="1.0.1"/>
